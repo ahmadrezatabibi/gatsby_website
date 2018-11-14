@@ -3,7 +3,7 @@ Gatsby sample project
 ## Installation
 
 
-nvm install
+npm install
 
 Run `gatsby develop` in the terminal to start.
 
